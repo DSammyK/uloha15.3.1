@@ -1,0 +1,58 @@
+body{
+    padding-left: 30px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    padding: 7px;
+    color: red;
+    font-weight: bold;
+    font-size: 17px;
+    background-color: lightblue;
+    border: 1px solid darkslateblue;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: red;
+    color: black;
+}
+
+input,textarea{
+    padding-left: 5px;
+}
+
+span{
+    font-size: 18px;
+    margin-left: 10px;
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+    display: block;
+}
+
+#inline{
+    display: inline-block;
+}
+
+div{
+    width: 49%;
+}
+
+section{
+    display: flex;
+}
+
+.hladaj{
+    padding-top: 50px;
+}
